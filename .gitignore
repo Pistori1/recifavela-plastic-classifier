@@ -1,0 +1,15 @@
+# Dados (muito grandes para git)
+data/raw/
+data/processed/
+*.npy
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+results/
